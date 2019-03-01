@@ -1,31 +1,19 @@
-Spectral by HTML5 UP
+Helios by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
+to take advantage of larger (well, wider) displays while still being capable of gracefully
+scaling down to fit all manner of smaller ones.
 
-- It's built with components from my Responsive Tools project.
+Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
+deviantART. Check out his portfolio here:
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+http://md.photomerchant.net/
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Michaels's work without his explicit permission!)
 
 AJ
 aj@lkn.io | @ajlkn
@@ -34,7 +22,7 @@ aj@lkn.io | @ajlkn
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Michael Domaradzki (md.photomerchant.net)
 
 	Icons:
 		Font Awesome (fontawesome.io)
