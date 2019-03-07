@@ -91,6 +91,8 @@ input, select, textarea {
 		font-weight: 300;
 	}
 
+
+
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -2200,6 +2202,12 @@ input, select, textarea {
 			color: #fff;
 			font-size: 3em;
 			line-height: 1em;
+			background-color: black;
+	    padding: 10px; /*add this if you want a bit of space around the text*/
+			border-radius: 15px 50px;
+
+  padding: 20px;
+
 		}
 
 			#header h1 a {
@@ -2803,6 +2811,10 @@ input, select, textarea {
 			ul.menu {
 				height: auto;
 				text-align: center;
+				border-radius: 15px 50px;
+background: #73AD21;
+padding: 20px;
+
 			}
 
 				ul.menu li {
@@ -2810,6 +2822,11 @@ input, select, textarea {
 					border: 0;
 					padding: 0.75em 0 0 0;
 					margin: 0;
+					border-radius: 15px 50px;
+  background: #73AD21;
+  padding: 20px;
+
+
 				}
 
 					ul.menu li:first-child {
